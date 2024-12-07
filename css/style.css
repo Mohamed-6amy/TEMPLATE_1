@@ -564,10 +564,11 @@
     content: "";
     position: absolute;
     width: 0;
-    height: 10%;
+    height: 0;
     top: 0;
     right: 0;
     background-color: #000000;
+    border-bottom: 3px rgb(8, 238, 207) solid;
     transition: 0.7s;
     opacity: 0;
 }
